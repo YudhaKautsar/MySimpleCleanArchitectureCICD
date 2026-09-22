@@ -1,2 +1,2 @@
 # MySimpleCleanArchitecture
-[![YudhaKautsar](https://circleci.com/gh/YudhaKautsar/MySimpleCleanArchitectureCICD.svg?style=svg)](https://circleci.com/gh/YudhaKautsar/MySimpleCleanArchitectureCICD)
+[![YudhaKautsar](https://circleci.com/gh/YudhaKautsar/MySimpleCleanArchitectureCICD.svg?style=shield)](https://circleci.com/gh/YudhaKautsar/MySimpleCleanArchitectureCICD)
